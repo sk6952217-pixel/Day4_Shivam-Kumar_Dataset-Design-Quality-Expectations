@@ -51,33 +51,33 @@ Used only for final evaluation.
 
 ## Dataset Risk Checklist
 
-[ ] All input images have a target image
+- All input images have a target image
 
-[ ] Input-target pairs represent the same scene
+- Input-target pairs represent the same scene
 
-[ ] Incorrect pairs are removed
+- Incorrect pairs are removed
 
-[ ] Duplicate images are checked
+- Duplicate images are checked
 
-[ ] Missing images are checked
+- Missing images are checked
 
-[ ] Image dimensions are checked
+- Image dimensions are checked
 
-[ ] Image format is checked
+- Image format is checked
 
-[ ] RGB channels are consistent
+- RGB channels are consistent
 
-[ ] Train/validation/test leakage is checked
+- Train/validation/test leakage is checked
 
-[ ] Input-target pairs stay in the same split
+- Input-target pairs stay in the same split
 
-[ ] Test set is kept fixed
+- Test set is kept fixed
 
-[ ] Dataset preprocessing is applied consistently
+- Dataset preprocessing is applied consistently
 
-[ ] Very dark and difficult images are identified
+- Very dark and difficult images are identified
 
-[ ] Dataset limitations are documented
+- Dataset limitations are documented
 
 ## Conclusion
 
