@@ -26,6 +26,7 @@ Target:
 
 ### Expected Folder Structure
 
+```text
 Dataset/
 ├── train/
 │   ├── input/
@@ -36,6 +37,7 @@ Dataset/
 └── test/
     ├── input/
     └── target/
+```
 
 ### Pairing Rule
 
